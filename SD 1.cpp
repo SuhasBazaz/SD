@@ -1,3 +1,6 @@
+//Code written by Suhas Bazaz.
+//This is a code which performs set operations (Intersection, Union, Addition, Subtraction)
+
 #include<iostream> 
 using namespace std;
 
